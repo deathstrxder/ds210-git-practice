@@ -13,3 +13,4 @@ _Big Group_
 ## Members
 
 - _Brady_
+- _eddie-zeng_
