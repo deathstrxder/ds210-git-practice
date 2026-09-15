@@ -11,11 +11,7 @@ fn main() {
     println!("Crew roster:");
 
     // ROSTER: replace the line below with one for yourself.
-<<<<<<< HEAD
-    println!(" - Eddie Zeng");
-=======
     println!("  (- Brady Was Here)");
->>>>>>> main
 
     println!();
     println!("Motto: {}", MOTTO);
