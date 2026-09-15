@@ -8,8 +8,8 @@ cargo run
 
 ## Crew name
 
-_not chosen yet_
+_Big Group_
 
 ## Members
 
-- _nobody has signed on yet_
+- _Brady_
