@@ -8,8 +8,9 @@ cargo run
 
 ## Crew name
 
-EZ Team
+_Big Group_
 
 ## Members
 
+- _Brady_
 - Eddie Zeng
