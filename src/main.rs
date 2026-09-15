@@ -6,12 +6,12 @@ const CREW_NAME: &str = "the unnamed crew";
 const MOTTO: &str = "This is my motto.";
 
 fn main() {
-    println!("=== {} ===", CREW_NAME);
+    println!("=== {} ===", Big Group);
     println!();
     println!("Crew roster:");
 
     // ROSTER: replace the line below with one for yourself.
-    println!("  (nobody has signed on yet)");
+    println!("  (- Brady Was Here)");
 
     println!();
     println!("Motto: {}", MOTTO);
